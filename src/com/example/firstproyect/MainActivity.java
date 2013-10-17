@@ -21,6 +21,8 @@ public class MainActivity extends ListActivity
         setListAdapter(new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1, m_astrTest));
         
         //setContentView(R.layout.activity_main);
+        
+        // Commit 1
     }
 
     @Override
